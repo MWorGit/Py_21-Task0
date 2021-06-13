@@ -2,6 +2,7 @@
 Завдання 0. Виконав Давидчук Михайло КН-20014б
 Створюем ssh ключ: 
 ![1](https://user-images.githubusercontent.com/85671565/121819989-df658600-cc98-11eb-9f67-5c820732f693.png)
+
 Підключаем ssh ключ:
 ![2](https://user-images.githubusercontent.com/85671565/121819992-e096b300-cc98-11eb-8d29-ff19c85c8cf9.PNG)
 
