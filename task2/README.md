@@ -7,5 +7,6 @@ _1) Створив програму
 
 _2) Виконання програми
 
-![изображение](https://user-images.githubusercontent.com/85671565/122926842-f11dec00-d370-11eb-8619-86087f08295f.png)
+![изображение](https://user-images.githubusercontent.com/85671565/123081457-a3fc5180-d426-11eb-8a14-dbf29e886e46.png)
+
 
