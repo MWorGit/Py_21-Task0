@@ -8,7 +8,7 @@
 
 ![2](https://user-images.githubusercontent.com/85671565/123330763-1bc19d80-d547-11eb-802a-38cff557dafd.PNG)
 
-4) Демонстрация роботи программы
+4) Демонстрация роботи программы.
    Ссылка на бот - http://t.me/mysuperbotdavidbot
 
 ![изображение](https://user-images.githubusercontent.com/85671565/123330312-87efd180-d546-11eb-826f-39531286206f.png)
